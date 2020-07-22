@@ -1,0 +1,40 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    background-color: black;
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.h4-color{
+     color: cornsilk;
+}
+#transaction-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.deposit{
+    color: black;
+    background-color: cornflowerblue;
+}
+.withdraw{
+    color: black;
+    background-color: darksalmon;
+}
+.balance{
+    color: black;
+    background-color: rgb(178, 216, 193);
+}
+.h4-with{
+    color: blanchedalmond;
+}
+.h4-dep{
+    color: blanchedalmond;
+}
